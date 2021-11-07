@@ -22,7 +22,7 @@
 
 ## OBJECTIVE 
 
-> 1) To research accidents data of Pakistan in order to highlight the importance of the problem.
+1) To research accidents data of Pakistan in order to highlight the importance of the problem.
 2) To implement the system which is able to monitor the driver’s behavior during driving.
 3) In depth analysis of the system and design and implementation in engineering perspective.
 4) Implementation of a novel alarming system to wake up drivers on time.
@@ -43,9 +43,9 @@
 
 [<img alt="alt_text" width="100%" height="100%" src="images/noyawn.png" />](https://github.com/zubairwazir/FlaskNewsApp/tree/main/images/noyawn.png)
 
-! [<img alt="alt_text" width="100%" height="100%" src="images/eye1.jpg" />](https://github.com/zubairwazir/FlaskNewsApp/tree/main/images/eye1.jpg) ! [<img alt="alt_text" width="100%" height="100%" src="images/eye2.png" />](https://github.com/zubairwazir/FlaskNewsApp/tree/main/images/eye2.png)
+[<img alt="alt_text" width="425" height="100%" src="images/eye1.jpg" />](https://github.com/zubairwazir/FlaskNewsApp/tree/main/images/eye1.jpg) [<img alt="alt_text" width="425" height="100%" src="images/eye2.png" />](https://github.com/zubairwazir/FlaskNewsApp/tree/main/images/eye2.png)
 
-! [<img alt="alt_text" width="100%" height="100%" src="images/mouth1.jpeg" />](https://github.com/zubairwazir/FlaskNewsApp/tree/main/images/mouth1.png) ! [<img alt="alt_text" width="100%" height="100%" src="images/mouth2.jpg" />](https://github.com/zubairwazir/FlaskNewsApp/tree/main/images/mouth2.png)
+! [<img alt="alt_text" width="425" height="100%" src="images/mouth1.jpeg" />](https://github.com/zubairwazir/FlaskNewsApp/tree/main/images/mouth1.png) ! [<img alt="alt_text" width="425" height="100%" src="images/mouth2.jpg" />](https://github.com/zubairwazir/FlaskNewsApp/tree/main/images/mouth2.png)
 
 
 
@@ -53,9 +53,9 @@
 
 [<img alt="alt_text" width="100%" height="100%" src="images/training1.png" />](https://github.com/zubairwazir/FlaskNewsApp/tree/main/images/training1.png)
 
-[<img alt="alt_text" width="100%" height="100%" src="images/training2.png" />](https://github.com/zubairwazir/FlaskNewsApp/tree/main/images/training2.png)
-
 [<img alt="alt_text" width="100%" height="100%" src="images/testing1.png" />](https://github.com/zubairwazir/FlaskNewsApp/tree/main/images/testing1.png)
+
+[<img alt="alt_text" width="100%" height="100%" src="images/training2.png" />](https://github.com/zubairwazir/FlaskNewsApp/tree/main/images/training2.png)
 
 [<img alt="alt_text" width="100%" height="100%" src="images/testing2.png" />](https://github.com/zubairwazir/FlaskNewsApp/tree/main/images/testing2.png)
 
