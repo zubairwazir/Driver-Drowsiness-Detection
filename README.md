@@ -30,6 +30,7 @@
 
 
 ## METHODOLOGY
+[<img alt="alt_text" width="100%" height="100%" src="images/methodology.png" />](https://github.com/zubairwazir/FlaskNewsApp/tree/main/images/methodology.png)
 
 ## RESULTS
 
