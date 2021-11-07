@@ -43,9 +43,15 @@
 
 [<img alt="alt_text" width="100%" height="100%" src="images/noyawn.png" />](https://github.com/zubairwazir/FlaskNewsApp/tree/main/images/noyawn.png)
 
-[<img alt="alt_text" width="425" src="images/eye1.jpg" />](https://github.com/zubairwazir/FlaskNewsApp/tree/main/images/eye1.jpg) [<img alt="alt_text" width="425" src="images/eye2.png" />](https://github.com/zubairwazir/FlaskNewsApp/tree/main/images/eye2.png)
+<p float="middle">
+  <img src="images/eye1.jpg" height="50%" width="40%" />
+  <img src="images/eye2.png" height="50%" width="40%" /> 
+</p>
 
-[<img alt="alt_text" width="425" src="images/mouth1.jpeg" />](https://github.com/zubairwazir/FlaskNewsApp/tree/main/images/mouth1.png) [<img alt="alt_text" width="425" src="images/mouth2.jpg" />](https://github.com/zubairwazir/FlaskNewsApp/tree/main/images/mouth2.png)
+<p float="middle">
+  <img src="images/mouth1.jpeg" height="50%" width="40%" />
+  <img src="images/mouth2.jpg" height="50%" width="40%" /> 
+</p>
 
 
 
@@ -55,7 +61,13 @@
 
 [<img alt="alt_text" width="100%" height="100%" src="images/testing1.png" />](https://github.com/zubairwazir/FlaskNewsApp/tree/main/images/testing1.png)
 
-[<img alt="alt_text" width="100%" height="100%" src="images/training2.png" />](https://github.com/zubairwazir/FlaskNewsApp/tree/main/images/training2.png) [<img alt="alt_text" width="100%" height="100%" src="images/testing2.png" />](https://github.com/zubairwazir/FlaskNewsApp/tree/main/images/testing2.png)
+<p float="middle">
+  <img src="images/training2.png" height="50%" width="40%" />
+  <img src="images/testing2.png" height="50%" width="40%" /> 
+</p>
+
+
+## LIVE TESTING RESULTS
 
 [<img alt="alt_text" width="100%" height="100%" src="images/normal.png" />](https://github.com/zubairwazir/FlaskNewsApp/tree/main/images/normal.png)
 
